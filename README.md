@@ -24,7 +24,7 @@ This Python program extracts phone numbers and email addresses from a given text
 2. Ensure you have Python installed.
 3. Install the required dependencies by running: `pip install prettytable`
 4. Replace "input.txt" with your desired text file.
-5. Execute the script: `python contact_information_extractor.py`
+5. Execute the script: `python extract_contact_info.py`
 
 ## Example Output
 ```
